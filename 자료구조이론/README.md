@@ -24,3 +24,8 @@
         * 빠른 접근가능(인덱스 번호로 접근)
     + 단점:
         * 데이터 추가/삭제의 어려움. 미리 최대 길이를 지정해야 한다.
+
+### 4. 큐
+- FIFO(First In, First Out), LILO(Last in, Last out)
+- Enqueue, DeQueue
+- **운영체제의 프로세스 스케쥴링 방식에 사용**
